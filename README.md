@@ -7,7 +7,7 @@ Make the form centered in the page.
 Add basic padding, border, and spacing between form elements.
 Change the background color of the submit button on hover.
 Use :focus to highlight input fields when they are active.
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
 Question 2: MEDIUM (Responsive Card Gallery using Flexbox)
 Task: Build a responsive 6-card layout using only HTML & CSS Flexbox.
 Requirements:
